@@ -1,0 +1,9 @@
+opencv-python
+torch
+ultralytics
+mediapipe
+scikit-learn
+pandas
+matplotlib
+notebook
+pytest
