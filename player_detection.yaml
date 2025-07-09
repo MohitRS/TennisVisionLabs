@@ -1,0 +1,13 @@
+train: data/processed/player_detection/images/train
+val:   data/processed/player_detection/images/val
+nc:    1
+names: ['player']
+
+roboflow:
+  workspace: tennisvisionlabs
+  project: playerdetection-tennisvisionlabs
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/tennisvisionlabs/playerdetection-tennisvisionlabs/dataset/1
+
+
