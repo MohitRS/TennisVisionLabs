@@ -7,3 +7,10 @@ pandas
 matplotlib
 notebook
 pytest
+
+torch>=1.10
+torchvision>=0.11
+opencv-python
+numpy
+pillow
+
